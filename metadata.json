@@ -1,0 +1,6 @@
+{
+  "name": "Bilim Hub - O'zbekiston Maktab Baholash Platformasi",
+  "description": "5-11 sinf o'quvchilari uchun BSB va CHSB materiallari, ishonchli javoblar va amaliy mashq testlari platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
